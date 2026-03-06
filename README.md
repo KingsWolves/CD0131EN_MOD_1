@@ -1,2 +1,1 @@
-# CD0131EN_MOD_1
-IBM CD0131EN: Git and GitHub Basics
+# IBM CD0131EN: Git and GitHub Basics
